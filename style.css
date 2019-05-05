@@ -1,0 +1,13 @@
+h1 {
+    color: black;
+}
+
+footer {
+display: block;
+padding: 15px;
+background: gray;
+color: white;
+position: fixed;
+width: 100%;
+bottom: 0;
+}
