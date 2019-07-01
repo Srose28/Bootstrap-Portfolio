@@ -1,26 +1,30 @@
-
+body {
+    background: rgb(241, 101, 125);
+}
 
 h1 {
-    color: black;
-}
-
-footer {
-display: block;
-padding: 15px;
-background: #666666;
-color: white;
-position: fixed;
-width: 100%;
-bottom: 0;
-}
-
-body {
-padding: 80px;
-background: oldlace;
+    text-align: center;
+    text-decoration: underline;
+    font-style: oblique;
+    font-size: 500%;
 
 }
 
-.container {
-    padding: 30px;
-    background: white;
+h3 {
+    text-align: center;
+    font-style: oblique;
+    font-size: 350%;
+    text-decoration: underline;
 }
+
+.card {
+    background: palegreen;
+}
+
+.jumbotron {
+    background: palegreen;
+    font-style: oblique;
+}
+
+
+
